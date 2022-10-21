@@ -1335,3 +1335,15 @@ h1 {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
+.exhibitionname{
+	color:rgba(255, 255, 255, 1);
+	width:391px;
+	height:32px;
+	position:absolute;
+	left:525px;
+	top:28px;
+	font-family:Poppins;
+	text-align:justified;
+	font-size:14px;
+	letter-spacing:0;
+}
